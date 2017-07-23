@@ -1,0 +1,31 @@
+.intro {
+  background: url(../img/keyboard_letter.jpg) no-repeat bottom center scroll;
+}
+
+.download-section {
+  background: url(../img/binary_code.jpg) no-repeat bottom center scroll;
+}
+
+.resume-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.profile-picture img{
+  height: 20em;
+  width: 20em;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.slider img {
+  height: 30em;
+  width: 60em;
+}
